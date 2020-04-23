@@ -1,0 +1,12 @@
+github.com/logrusorgru/aurora v0.0.0-20200102142835-e9ef32dff381 h1:bqDmpDG49ZRnB5PcgP0RXtQvnMSgIF14M7CBd2shtXs=
+github.com/logrusorgru/aurora v0.0.0-20200102142835-e9ef32dff381/go.mod h1:7rIyQOR62GCctdiQpZ/zOJlFyk6y+94wXzv6RNZgaR4=
+github.com/mbndr/figlet4go v0.0.0-20190224160619-d6cef5b186ea h1:mQncVDBpKkAecPcH2IMGpKUQYhwowlafQbfkz2QFqkc=
+github.com/mbndr/figlet4go v0.0.0-20190224160619-d6cef5b186ea/go.mod h1:QzTGLGoOqLHUBK8/EZ0v4Fa4CdyXmdyRwCHcl0YbeO4=
+github.com/pkg/errors v0.8.1 h1:iURUrRGxPUNPdy5/HRSm+Yj6okJ6UtLINN0Q9M4+h3I=
+github.com/pkg/errors v0.8.1/go.mod h1:bwawxfHBFNV+L2hUp1rHADufV3IMtnDRdf1r5NINEl0=
+github.com/tomruk/tbauth v0.0.0-20190921125444-5c3860c082ec h1:L1ZaZCHBOtq9Sgzn84iqCTgDdEhNSRPtVcPXgCcpavg=
+github.com/tomruk/tbauth v0.0.0-20190921125444-5c3860c082ec/go.mod h1:JIOQiKsxgiEkmD3NLYt2GUydw6/AtjWgwMbGWskOPo4=
+github.com/undiabler/golang-whois v0.0.0-20180515150714-4c2dabddc647 h1:3WUp24Fr7w+xi3KFwy0Am/kSyP/22znmM1KHuY1kDyM=
+github.com/undiabler/golang-whois v0.0.0-20180515150714-4c2dabddc647/go.mod h1:/IG5ynqwNha9/Ad7btFMotLLHffjNlwAZgr5fJCyCpQ=
+gopkg.in/tucnak/telebot.v2 v2.0.0-20200120165535-b6c3367fed99 h1:EMQ2hWPVLRFE/1jEruLFkhy1ACshSEg3X3PeCtGM8mA=
+gopkg.in/tucnak/telebot.v2 v2.0.0-20200120165535-b6c3367fed99/go.mod h1:+//wyPtHTeW2kfyEBwB05Hqnxev7AGrsLIyylSH++KU=
