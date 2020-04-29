@@ -1,19 +1,15 @@
 GO = go
-LDFLAGS = -ldflags "-s -w"
+FLAGS = -trimpath
 
-all: nmapperbot
+all: build
 
-nmapperbot:
-	$(GO) build $(LDFLAGS)
+.PHONY: build
+build:
+	$(GO) build $(FLAGS)
 
 .PHONY: install
 install: nmapperbot
 	mv nmapperbot /usr/local/bin
-
-.PHONY: debug
-debug:
-	$(GO) build
-	@./nmapperbot
 
 .PHONY: clean
 clean:
